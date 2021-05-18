@@ -36,7 +36,7 @@ This Code of Conduct applies within all program spaces, and also applies when an
 
 ### Enforcement <a id="enforcement"></a>
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the program managers responsible for enforcement at [anandbaburajan@gmail.com](mailto:anandbaburajan@gmail.com). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the program managers responsible for enforcement at [email](mailto:5hre9a@gmail.com). All complaints will be reviewed and investigated promptly and fairly.
 
 All program managers and mentors are obligated to respect the privacy and security of the reporter of any incident.
 
