@@ -15,9 +15,10 @@
  * [CONTEST 7 - Snipathon-21](https://github.com/CodeMacrocosm/Snipathon-21)
 "Contribute your favorite code snippets in various programming languages."
  * [CONTEST 8 - Vocabathon-22](https://github.com/CodeMacrocosm/Vocabathon-22)
-
+"Contribute to this repository by adding vocabulary."
  * [CONTEST 9 - Patternathon-22](https://github.com/CodeMacrocosm/Patternathon-22)
-
+"Contribute to this repository by crafting patterns in various programming languages."
  * [CONTEST 10 - Algoathon-22](https://github.com/CodeMacrocosm/Algoathon-22)
-  
+"Contribute to this repository by composing algorithms in multiple programming languages."
 * [CONTEST 11 - Profileathon-22](https://github.com/CodeMacrocosm/profileathon-22)
+"Contribute to this repository by including your participation profile."
