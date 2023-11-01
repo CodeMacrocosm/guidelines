@@ -1,24 +1,20 @@
-# contest
+# Contest
 
-* [CONTEST 1 - writeathon-20 :](https://github.com/CodeMacrocosm/writeathon-20)
-"The finest repository for newcomers, helping you learn how to contribute and make your contributions."
-* [CONTEST 2 - startathon-20 : ](https://github.com/CodeMacrocosm/startathon-20)
-"Make a contribution to this repo by adding a 'Hello, World!' program in various programming languages."
-* [CONTEST 3 - designathon-20](https://github.com/CodeMacrocosm/Designathon-20)
-"Compose a short story and use Illustrator to craft a stunning chapter for a creative storybook."
-* [CONTEST 4 - webathon-20](https://github.com/CodeMacrocosm/Webathon-20)
-"Join us as contributors for this web design hackathon, a competition to craft visually stunning websites."
-* [CONTEST 5 - Pullathon-21](https://github.com/CodeMacrocosm/Pullathon-21)
-"A repository welcoming beginners to make their initial pull request."
- * [CONTEST 6 - Devathon-21](https://github.com/CodeMacrocosm/Devathon-21)
-"Share in this repository: What inspired you to become a developer? Use your favorite programming language."
- * [CONTEST 7 - Snipathon-21](https://github.com/CodeMacrocosm/Snipathon-21)
-"Contribute your favorite code snippets in various programming languages."
- * [CONTEST 8 - Vocabathon-22](https://github.com/CodeMacrocosm/Vocabathon-22)
-"Contribute to this repository by adding vocabulary."
- * [CONTEST 9 - Patternathon-22](https://github.com/CodeMacrocosm/Patternathon-22)
-"Contribute to this repository by crafting patterns in various programming languages."
- * [CONTEST 10 - Algoathon-22](https://github.com/CodeMacrocosm/Algoathon-22)
-"Contribute to this repository by composing algorithms in multiple programming languages."
-* [CONTEST 11 - Profileathon-22](https://github.com/CodeMacrocosm/profileathon-22)
-"Contribute to this repository by including your participation profile."
+| S.No | Name of Contest                                   | Description                                                   |
+|------|---------------------------------------------------|---------------------------------------------------------------|
+| 🏆 Contest 1 | [Write-a-Thon-20](https://github.com/CodeMacrocosm/write-a-thon-20)                        | 🌟 Unleash the Creative Power of Magic Words                |
+| 🌟 Contest 2 | [Start-a-Thon-20](https://github.com/CodeMacrocosm/start-a-thon-20)                        | 🌟 The Hello World Spectacular Extravaganza                  |
+| 💻 Contest 3 | [Design-a-Thon-20](https://github.com/CodeMacrocosm/Design-a-thon-20)                       | 🌟 Storyteller's Canvas - Design Your Narrative              |
+| 🌐 Contest 4 | [Web-a-Thon-20](https://github.com/CodeMacrocosm/Web-a-thon-20)                          | 🌟 Ultimate Web Development Showdown!               |
+| 🚀 Contest 5 | [Pull-a-Thon-21](https://github.com/CodeMacrocosm/Pull-a-thon-21)                         | 🌟 Entry Point to Open Source Collaboration!            |
+| ✂️ Contest 6 | [Dev-a-Thon-21](https://github.com/CodeMacrocosm/Dev-a-thon-21)                          | 🌟 Your Gateway to Express Your Dev Journey!                 |
+| 🌐 Contest 7 | [Snip-a-Thon-21](https://github.com/CodeMacrocosm/Snip-a-thon-21)                         | 🌟 Code Brilliance, One Snippet at a Time!                 |
+| 📖 Contest 8 | [Vocab-a-Thon-22](https://github.com/CodeMacrocosm/Vocab-a-thon-22)                        | 🌟 Your Passport to Word Wonderland!                       |
+| 💻 Contest 9  | [Pattern-a-Thon-22:](https://github.com/CodeMacrocosm/Pattern-a-thon-22)                      | 🌟 Artistic Expressive Canvas in Code                               |
+| 🌐 Contest 10 | [Algo-a-Thon-22:](https://github.com/CodeMacrocosm/Algo-a-thon-22)                          | 🌟 Ingeniously Crafting Algorithms Anew                               |
+| ✨ Contest 11 | [Profile-a-Thon-22:](https://github.com/CodeMacrocosm/profile-a-thon-22)                      | 🌟  Tech Journeys Unveiled Together.                    |
+| 🌊 Contest 12 | [Turtle-a-Thon '23](https://github.com/CodeMacrocosm/Turtle-a-thon-22)                        | 🌟 Explore Turtle Graphics Bliss. |
+
+
+
+
