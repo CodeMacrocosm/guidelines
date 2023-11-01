@@ -1,9 +1,38 @@
-# FAQ
+# FAQs for Contests
 
-* **Can a student or mentor from any college participate?** Yes, anyone who likes open source software is welcome! 
-*  **Can a student without any programming experience participate?** Yes, we think is enough time for a beginner with basic familiarity with computers to learn the basics of a programming language. 
-* **Is there an entry fee or selection criteria?** No. 
-* **Is programming background necessary to start learning Git?** No, Git is a version control system that can be used to record changes to even a .txt file 
-* **What’s the difference between Git & GitHub?** Git is a version control system that lets you manage and keep track of your source code history whereas GitHub is a cloud-based hosting service that lets you manage Git repositories \(and much more\). 
-* **Would you teach programming to beginners?** Unforunately no. We won't be able to teach you programming but we’ll guide and help you with coding the right way, suggest resources and inculcate best practices! 
 
+
+7. **Do I need a specific computer or operating system to participate?**
+   - 🖥️ No, you can participate using any computer or operating system. Git is platform-agnostic.
+
+8. **Are there age restrictions for participation?**
+   - 🎉 No, there are no age restrictions. Participants of all ages are welcome.
+
+9. **Can I participate if I have a full-time job or other commitments?**
+   - ⌛ Yes, the contests are designed to be flexible, and you can participate at your own pace.
+
+10. **Do I need to have my own project idea to participate?**
+    - 💡 No, you can choose to contribute to existing projects. It's a great way to learn and collaborate.
+
+11. **Is it mandatory to use Git for version control during the contests?**
+    - 🔄 While it is highly recommended to use Git for version control, it's not mandatory. However, it's a valuable skill to learn and practice.
+
+12. **Can I participate if I'm not fluent in English?**
+    - 🌐 Yes, you can participate regardless of your proficiency in English. Contributions are valued in any language.
+
+13. **Are there specific time commitments for participation?**
+    - ⏰ No, you can contribute at your own pace. However, the more you engage, the more you'll benefit from the experience.
+
+14. **Is it necessary to attend any physical events or meetings?**
+    - 🏡 No, participation is entirely online, and you can contribute from anywhere.
+
+15. **Do I need special equipment or software for the contests?**
+    - 💻 In most cases, a standard computer with an internet connection is sufficient. Specific requirements, if any, will be mentioned in the contest details.
+
+16. **Can I collaborate with other participants on a project?**
+    - 👥 Yes, collaboration is encouraged. You can work with others to enhance your learning experience.
+
+17. **Are mentors available to provide guidance during the contests?**
+    - 🤝 Yes, mentors will be available to offer guidance and support throughout the contests.
+
+Feel free to reach out if you have more questions or need further information!
