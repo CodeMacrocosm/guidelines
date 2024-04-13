@@ -1,4 +1,4 @@
-# Comprehensive Trainings 📚
+# Comprehensive Trainings (9+) 📚
 
 ### 🚀 Embark on Comprehensive Training Journeys & Access Abundant Resources 
 
