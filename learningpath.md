@@ -1,6 +1,6 @@
-# Learning path
+# Comprehensive Trainings 📚
 
-## 🚀 Embark on Comprehensive Training Journeys & Access Abundant Resources 📚
+### 🚀 Embark on Comprehensive Training Journeys & Access Abundant Resources 
 
 At CodeMacrocosm, we are dedicated to providing robust technical training to programmers worldwide, fostering their growth and proficiency across various domains. Our meticulously crafted learning paths cover a spectrum of essential topics, empowering learners to master key concepts and technologies. Through our comprehensive trainings and abundant resources, we aim to equip individuals with the skills they need to succeed in the ever-evolving tech landscape.
 
